@@ -1,0 +1,7 @@
+Tomato_Soup 74
+Chicken_Noodle 87
+Vegetable_Soup 60
+Miso_Soup 40
+Pumpkin_Cream 70
+Onion_Soup 55
+Bean_Soup 110

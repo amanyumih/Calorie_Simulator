@@ -1,0 +1,5 @@
+Protein_Shake 120
+Chocolate_cake 350
+Cookie 80
+Chocolate 500
+Meal 1996

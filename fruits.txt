@@ -1,0 +1,8 @@
+Apple 52
+Banana 89
+Orange 47
+Grapes 67
+Strawberry 32
+Watermelon 30
+Peach 39
+Mango 60

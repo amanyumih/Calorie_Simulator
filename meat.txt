@@ -1,0 +1,7 @@
+Chicken_Breast 165
+Beef_Steak 271
+Pork_Chop 231
+Grilled_Salmon 206
+Turkey_Leg 170
+Salami 425
+Ham 145
